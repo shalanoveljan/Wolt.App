@@ -1,0 +1,5 @@
+C:\Users\OMEN\Desktop\VS Code\Wolt.APP\obj\Debug\net6.0\Wolt.APP.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\Wolt.APP\obj\Debug\net6.0\Wolt.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\Wolt.APP\obj\Debug\net6.0\Wolt.APP.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\Wolt.APP\obj\Debug\net6.0\Wolt.APP.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\Wolt.APP\obj\Debug\net6.0\Wolt.APP.csproj.CoreCompileInputs.cache
